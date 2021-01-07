@@ -4,12 +4,15 @@
 
 import java.util.ArrayList;
 /*
+   Sidney Beatty June 22, 2020, 
+   File: DesertIslandPlaylist.java 
+   Purpose: Create a musical playlist.
+   Source Code by: CodeCademy.
+*/
 
 
 
 
-
-*\
 
 class Playlist {
   
